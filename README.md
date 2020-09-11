@@ -91,7 +91,7 @@
 - Daily 日报项目：01234.dev，每天分享自己阅读的文章、项目以及灵感；
 - UI 俱乐部项目：uuui.club ，分享日常用到的或者值得记录的 UI 项目；
 
-  - 基于 CloudFlare Workers 与 notionAPI 的导航网址开发 - https://github.com/STANAPO/CF-Nav：基于开源项目二次开发，利用第三方 Notion API，实现了将 Notion 作为 CMS 的一个 Serverless 的 UI 项目导航-  nav.uuui.club；
+  - 基于 CloudFlare Workers 与 notionAPI 的导航网址开发 - https://github.com/STANAPO/CF-Nav ：基于开源项目二次开发，利用第三方 Notion API，实现了将 Notion 作为 CMS 的一个 Serverless 的 UI 项目导航-  nav.uuui.club；
 
 ### 技术文章
 
